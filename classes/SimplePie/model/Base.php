@@ -3056,3 +3056,5 @@ class SimplePie
 		}
 	}
 }
+
+class SimplePie_Base extends SimplePie {}

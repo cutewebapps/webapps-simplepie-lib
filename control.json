@@ -3,6 +3,6 @@
     "version" : "0.1.0",
     "classes" : [ "SimplePie" ],
     "deps"    : [ 
-        "webapps-framework-lib" ,
+        "webapps-framework-lib" 
     ]
 }
